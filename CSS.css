@@ -1,0 +1,40 @@
+td {
+    border: 2px solid #333;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    cursor: pointer;
+    border-color:green;
+}
+table {
+    border-collapse:collapse;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left:auto;
+    margin-right:auto;
+    float:center;
+}
+
+button {
+    font-size: 20px;
+    border-radius:20px;
+    text-align:center;
+    height:75px;
+    width:150px;
+    background-color:red;
+    border:none;
+    display:inline-block;
+    transition: 0.2s;
+}
+button:hover {
+    background-color:black;
+    color:red;
+    font-size: 25px;
+    transition:0.2s;
+}
+h1 {
+    
+}
